@@ -27,6 +27,7 @@ public class Vehicle {
 	public void setVehicleId(String vehicleId) {
 		this.vehicleId = vehicleId;
 	}
+	// Getter for Vehicle Brand field
 	public String getVehicleBrand() {
 		return vehicleBrand;
 	}
